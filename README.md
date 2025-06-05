@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌌 To Sky — Aiming Higher, Always
 
-<!--
-**to-sky99/to-sky99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, nice to meet you — I am a developer who believes in building without limits, dreaming beyond the clouds, and coding toward the sky 🚀.
 
-Here are some ideas to get you started:
+## 🚀 Mission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Shoot for the moon. Even if you miss, you'll land among the stars."  
+> — Norman Vincent Peale
+
+- 🛠️ I build apps that solve real-world problems.
+- 🌱 Always learning — currently exploring **AI**, **Edge Functions**, and **cloud-native dev**.
+- ☁️ Dreaming big and shipping fast.
+
+## 🌐 Projects
+
+- ✨ [SkyStack](#) – My modern full-stack starter kit.
+- 🔭 [StarMapper](#) – Visualizing the galaxy using WebGL.
+- ⚡ [CloudBurst](#) – A realtime edge-deployable API service.
+
+Let’s build something that **touches the sky** ✨
